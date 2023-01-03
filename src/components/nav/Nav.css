@@ -1,0 +1,13 @@
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    column-gap: 1vw;
+    padding: 1vw;
+    border-bottom: 2px solid blue;
+    margin-bottom: 1vh;
+}
+
+.nav-link {
+    color: green;
+    text-decoration: solid;
+}
